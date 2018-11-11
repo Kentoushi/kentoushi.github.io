@@ -8,8 +8,8 @@
       "type": "image/x-icon"
     }
   ],
-  "homepage": "./",
-  "start_url": "./",
+  "homepage" : "https://kentoushi.github.io/starwars1/",
+  "start_url": "https://kentoushi.github.io/starwars1/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
