@@ -5,11 +5,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "09ba119b9dbd40a4672c33357911f3fb",
-    "url": "./static/media/swcharacters.09ba119b.jpg"
+    "url": "static/media/swcharacters.09ba119b.jpg"
   },
   {
     "revision": "fe9d8f2dc9aafb4bc8bba2ee94b0a82d",
-    "url": "./static/media/clonewars2.fe9d8f2d.woff"
+    "url": "static/media/clonewars2.fe9d8f2d.woff"
   },
   {
     "revision": "229c360febb4351a89df",
