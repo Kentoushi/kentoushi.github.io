@@ -8,6 +8,7 @@
       "type": "image/x-icon"
     }
   ],
+  "homepage" : "http://kentoushi.github.io/starwars2"
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
