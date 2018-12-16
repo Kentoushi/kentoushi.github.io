@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.particles {
+  position: fixed; /*This is to make sure that it stays where it is even if we scroll down*/
+  top: 0; /*We adjust all of the margins so that it is full screen */
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1; /*This is where we position the layer so it is underneath everything else*/
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
